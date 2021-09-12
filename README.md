@@ -22,4 +22,4 @@ A marketing mix model to estimate the impact of advertising on consumers’ bran
 - Perceived quality tends to increase with the brand's own traditional advertising in national and local media; however digital advertising doesn't seem to have significant effects on the brand quality.
 - We observed that adjusted R-square statistics increases as we add control variables to the model, and that the estimates of advertising parameters become more consistent with more control variables in the model. 
 
-*Please refer to the report and code files for more detail*
+**Please refer to the report and code files for more detail**
