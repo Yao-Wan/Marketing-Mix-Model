@@ -1,4 +1,4 @@
-# Estimate the Impact of Advertising
+# Estimate the Impact of Advertising Using R
 A marketing mix model to estimate the impact of advertising on consumers’ brand quality attitudes
 
 ## Description
